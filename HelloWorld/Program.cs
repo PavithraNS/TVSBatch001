@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Welcome to fellowship");
             Console.WriteLine("HelloWorld program");
             Console.WriteLine("Adding newline into dev branch");
+            Console.WriteLine("performing merge command");
             Console.Read();
         }
     }
