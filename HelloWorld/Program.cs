@@ -14,6 +14,7 @@ namespace HelloWorld
             Console.WriteLine("HelloWorld program");
             Console.WriteLine("Adding newline into dev branch");
             Console.WriteLine("performing merge command");
+            Console.WriteLine("creating conflicts by modifying both remote and local");
             Console.Read();
         }
     }
