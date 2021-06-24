@@ -15,6 +15,7 @@ namespace HelloWorld
             Console.WriteLine("Adding newline into dev branch");
             Console.WriteLine("performing merge command");
             Console.WriteLine("Latest code from another developer");
+            Console.WriteLine("Testing merging");
             Console.Read();
         }
     }
