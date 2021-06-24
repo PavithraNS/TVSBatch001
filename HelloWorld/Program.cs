@@ -16,6 +16,8 @@ namespace HelloWorld
             Console.WriteLine("performing merge command");
 	Console.WriteLine("Modifying in local");
             Console.WriteLine("creating conflicts by modifying both remote and local");
+            Console.WriteLine("Latest code from another developer");
+            Console.WriteLine("Testing merging");
             Console.Read();
         }
     }
